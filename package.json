@@ -1,5 +1,5 @@
 {
-  "name": "tailpine",
+  "name": "classic-movies-101",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,6 @@
     "build-css": "npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch",
     "build-js": "npx esbuild src/script.js --outfile=public/script.js --bundle --watch"
   },
-  "author": "Aleksios47",
+  "author": "Aleksios22",
   "license": "ISC"
 }
